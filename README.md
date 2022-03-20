@@ -37,13 +37,13 @@ The Blogs and Tutorials are organized by folders, the name of the folder corresp
 
 Understand how to apply a linear regression algorithm from scratch. Also understands how to optimize it using the Scikit-Learn library.
 
-Go into the post [Should we hire new staff?](https://www.jlcaraveo.com/blog/linear-regresion-with-python/).
+Go into the post [Linear Regression with Python](https://www.jlcaraveo.com/blog/linear-regresion-with-python/).
 
 #### Get PDFs files
 
-* **Spanish version:** [¿Deberíamos contratar nuevo personal?](https://drive.google.com/file/d/1ap1zmtc2Yt61EKIm7VwI90Qx-JZdssTI/view?usp=sharing).
+* **Spanish version:** [Regresión Lineal Python](https://drive.google.com/file/d/1ap1zmtc2Yt61EKIm7VwI90Qx-JZdssTI/view?usp=sharing).
 
-* **English version:** [Should we hire new staff?](https://drive.google.com/file/d/1oWYZ4fMW3SmqitGd6Gp8cBm0fFZXKoFU/view?usp=sharing).
+* **English version:** [Linear Regression with Python](https://drive.google.com/file/d/1oWYZ4fMW3SmqitGd6Gp8cBm0fFZXKoFU/view?usp=sharing).
 
 
 ### Logistic Regression
@@ -56,10 +56,29 @@ Go into the post [Should we hire new staff?](https://www.jlcaraveo.com/blog/line
 
 Logistic regression helps to predict a categorical variable. Understand the fundamentals behind this algorithm and apply it using Python code or the Scikit-Learn library.
 
-Go into the post [Should we hire new staff?](https://www.jlcaraveo.com/blog/logistic-regression-with-python/).
+Go into the post [Logistic Regression with Python](https://www.jlcaraveo.com/blog/logistic-regression-with-python/).
 
 #### Get PDFs files
 
-* **Spanish version:** [¿Deberíamos contratar nuevo personal?](https://drive.google.com/file/d/1V1d0DxaHpb0cMFLk4OM11qJ1LCCRvqme/view?usp=sharing).
+* **Spanish version:** [Regresión Logística con Python](https://drive.google.com/file/d/1V1d0DxaHpb0cMFLk4OM11qJ1LCCRvqme/view?usp=sharing).
 
-* **English version:** [Should we hire new staff?](https://drive.google.com/file/d/1ZCKamc6wbMkWr_vJyHhQRKKdoqMQ1Vie/view?usp=sharing).
+* **English version:** [Logistic Regression with Python](https://drive.google.com/file/d/1ZCKamc6wbMkWr_vJyHhQRKKdoqMQ1Vie/view?usp=sharing).
+
+
+### Matplotlib Tutorial
+
+**Title:** Matplotlib Tutorial
+
+**Date:** Mar 20 2022
+
+**Author:** José Higuera
+
+Learn how to use the Matplotlib library and create visualizations for your reports. Learn with the example proposed in the article.
+
+Go into the post [Take advantage with powerful visualizations](https://www.jlcaraveo.com/blog/take-advantage-with-powerful-visualizations/).
+
+#### Get PDFs files
+
+* **Spanish version:** [Tutorial con Matplotlib](https://drive.google.com/file/d/1G__NdP5MmM4AkOdaGxLpdo2QV_bfemo8/view?usp=sharing).
+
+* **English version:** [Matplotlib Tutorial](https://drive.google.com/file/d/19s_EgyN7ZI9pbqJqVPwYqHp5UYoiOc1_/view?usp=sharing).
