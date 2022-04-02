@@ -81,4 +81,17 @@ Go into the post [Take advantage with powerful visualizations](https://www.jlcar
 
 * **Spanish version:** [Tutorial con Matplotlib](https://drive.google.com/file/d/1G__NdP5MmM4AkOdaGxLpdo2QV_bfemo8/view?usp=sharing).
 
-* **English version:** [Matplotlib Tutorial](https://drive.google.com/file/d/19s_EgyN7ZI9pbqJqVPwYqHp5UYoiOc1_/view?usp=sharing).
+* **English version:** [Matplotlib Tutorial](https://drive.google.com/file/d/1T0FXsNgxmUuwCnFu6pSUyXZn6TOvOg65/view?usp=sharing).
+
+
+### Neural Network Representation
+
+**Title:** Neural Network Representation
+
+**Date:** Apr 02 2022
+
+**Author:** José Higuera
+
+A description, as friendly as possible, of what a neural network is and what components it is made up of. Find out in this post.
+
+Go into the post [How a Neural Network is represented?](https://www.jlcaraveo.com/blog/how-a-neural-network-is-represented/).
