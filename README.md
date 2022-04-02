@@ -39,7 +39,7 @@ Understand how to apply a linear regression algorithm from scratch. Also underst
 
 Go into the post [Linear Regression with Python](https://www.jlcaraveo.com/blog/linear-regresion-with-python/).
 
-#### Get PDFs files
+**Get PDFs files**
 
 * **Spanish version:** [Regresión Lineal Python](https://drive.google.com/file/d/1ap1zmtc2Yt61EKIm7VwI90Qx-JZdssTI/view?usp=sharing).
 
@@ -58,7 +58,7 @@ Logistic regression helps to predict a categorical variable. Understand the fund
 
 Go into the post [Logistic Regression with Python](https://www.jlcaraveo.com/blog/logistic-regression-with-python/).
 
-#### Get PDFs files
+**Get PDFs files**
 
 * **Spanish version:** [Regresión Logística con Python](https://drive.google.com/file/d/1V1d0DxaHpb0cMFLk4OM11qJ1LCCRvqme/view?usp=sharing).
 
@@ -77,7 +77,7 @@ Learn how to use the Matplotlib library and create visualizations for your repor
 
 Go into the post [Take advantage with powerful visualizations](https://www.jlcaraveo.com/blog/take-advantage-with-powerful-visualizations/).
 
-#### Get PDFs files
+**Get PDFs files**
 
 * **Spanish version:** [Tutorial con Matplotlib](https://drive.google.com/file/d/1G__NdP5MmM4AkOdaGxLpdo2QV_bfemo8/view?usp=sharing).
 
